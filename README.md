@@ -1,5 +1,7 @@
 # ⚡ HackSparks
 
+[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-ugj5ujk4)
+
 > A hackathon idea generator that helps you move from a blank page to a demo-ready project concept in seconds.
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)](https://react.dev/)
